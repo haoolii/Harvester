@@ -6,11 +6,9 @@
 
 [政府資料開放平台](https://data.gov.tw/dataset/11550)
 
-`GET https://www.twse.com.tw/exchangeReport/STOCK_DAY_ALL?response=open_data`
-
 所有上市公司當日成交資訊
 
-`GET https://www.twse.com.tw/exchangeReport/STOCK_DAY?response=open_data`
+`GET https://www.twse.com.tw/exchangeReport/STOCK_DAY_ALL?response=open_data`
 
 個股上市公司當月所有成交資訊
 
